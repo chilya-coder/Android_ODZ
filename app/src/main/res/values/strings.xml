@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="logo">Logo</string>
+    <string name="yes_message">Thanks for your feedback, we will try to make the application better</string>
+    <string name="no_message">It’s a pity that you don’t like our application (</string>
+    <string name="Review">Review</string>
+</resources>
